@@ -1,47 +1,19 @@
-### Hi there, I'm Patryk 👋
+### Hey there! 👋
 
-> Software Engineering Student | Systems Programming Enthusiast | Focused on Rust & Performance
+I'm **Patryk**, a Software Engineering & Mobile Apps student based in Poland.
 
----
+I study application architecture by day, but my real passion lies in **Systems Programming**.
+I love building software that is not only functional but blazing fast and memory-safe.
 
-### 👨‍💻 Professional Summary
+My main tech stack focus right now is **Rust** (especially combined with `egui`). I am also a huge advocate for **Low-code** solutions to speed up business prototyping.
 
-I am a 3rd-year **Software Engineering & Mobile Applications** student transitioning into **Systems Programming**.
+I've got a few projects in the works, but my favorite is [The Forge Macro (TFM)](https://github.com/x1000z1/the-forge-macro).
+It's a high-performance automation tool I built entirely in Rust to explore safe desktop input simulation and GUI rendering.
 
-While my academic background provides a solid foundation in software architecture and mobile development lifecycles, my professional interest lies in **Rust**. I am passionate about building software that respects system resources—focusing on memory safety, concurrency, and zero-cost abstractions.
+I'm currently in my 3rd year of university, constantly bridging the gap between academic theory and practical, modern performance coding.
 
-* 🌱 **Currently mastering:** Rust Ecosystem (`egui`, `tokio`, FFI).
-* 📱 **Academic focus:** Mobile Application Development.
-* 🔧 **Advocate for:** Low-code solutions for rapid business prototyping.
+**Fun Facts:**
 
----
-
-### 🚀 Engineering Highlights
-
-**[The Forge Macro (TFM)](https://github.com/x1000z1/the-forge-macro)**
-*A standalone, high-performance desktop automation tool written in Rust.*
-
-I developed TFM to explore the limits of efficient desktop automation. Unlike standard script-based solutions, TFM is a compiled binary that prioritizes safety and low resource consumption.
-
-* **Core Logic:** Implements human-like behavior algorithms using `rand` to ensure safe interactions.
-* **System Integration:** Utilizes `enigo` for cross-platform input simulation and `active-win-pos-rs` for strict window context awareness.
-* **UI:** Built with **egui (eframe)** to provide a lightweight, immediate-mode graphical interface.
-
----
-
-### 🛠️ Technical Stack
-
-**Primary Focus:**
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Academic & Concepts:**
-![Mobile](https://img.shields.io/badge/Mobile_Dev-Android-green?style=for-the-badge)
-![Low Code](https://img.shields.io/badge/Low_Code-Advocate-blueviolet?style=for-the-badge)
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=x1000z1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+* 🦀 I'm betting my future career on Rust.
+* ⚡ Obsessed with optimization and lightweight software.
+* **Hobbies:** coding, tech trends.
