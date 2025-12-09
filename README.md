@@ -1,30 +1,47 @@
-### Hi there! I'm [Patryk] 👋
+### Hi there, I'm Patryk 👋
 
-> 3rd Year SE Student | 🦀 Rust Enthusiast | Low-code Advocate | Focused on efficient & modern solutions.
-
----
-
-### 👨‍💻 About Me
-
-I am currently pursuing a degree in **Software Engineering & Mobile Applications**. While my academic path gives me a strong foundation in architecture and mobile dev, my personal passion drives me towards **Systems Programming** and **Rust**.
-
-I love exploring how to build software that is not only functional but also blazing fast and memory-safe.
+> Software Engineering Student | Systems Programming Enthusiast | Focused on Rust & Performance
 
 ---
 
-### 🛠️ Languages & Tools
+### 👨‍💻 Professional Summary
 
-**Core:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+I am a 3rd-year **Software Engineering & Mobile Applications** student transitioning into **Systems Programming**.
+
+While my academic background provides a solid foundation in software architecture and mobile development lifecycles, my professional interest lies in **Rust**. I am passionate about building software that respects system resources—focusing on memory safety, concurrency, and zero-cost abstractions.
+
+* 🌱 **Currently mastering:** Rust Ecosystem (`egui`, `tokio`, FFI).
+* 📱 **Academic focus:** Mobile Application Development.
+* 🔧 **Advocate for:** Low-code solutions for rapid business prototyping.
+
+---
+
+### 🚀 Engineering Highlights
+
+**[The Forge Macro (TFM)](https://github.com/x1000z1/the-forge-macro)**
+*A standalone, high-performance desktop automation tool written in Rust.*
+
+I developed TFM to explore the limits of efficient desktop automation. Unlike standard script-based solutions, TFM is a compiled binary that prioritizes safety and low resource consumption.
+
+* **Core Logic:** Implements human-like behavior algorithms using `rand` to ensure safe interactions.
+* **System Integration:** Utilizes `enigo` for cross-platform input simulation and `active-win-pos-rs` for strict window context awareness.
+* **UI:** Built with **egui (eframe)** to provide a lightweight, immediate-mode graphical interface.
+
+---
+
+### 🛠️ Technical Stack
+
+**Primary Focus:**
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Interests:**
+**Academic & Concepts:**
 ![Mobile](https://img.shields.io/badge/Mobile_Dev-Android-green?style=for-the-badge)
 ![Low Code](https://img.shields.io/badge/Low_Code-Advocate-blueviolet?style=for-the-badge)
 
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=x1000z1&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x1000z1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
